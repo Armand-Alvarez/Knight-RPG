@@ -30,8 +30,10 @@ int main (void)
 	setupScreenSize();
 	system("cls");
 	
-	/*TEST FUNCTION*/
 	printLaunchScreen();
+
+	/*TEST FUNCTION*/
+	
 	/*END TEST FUNCTION*/
 }
 
@@ -40,11 +42,8 @@ int main (void)
 /* Sets up the dimensions for CMD prompt. */
 void setupScreenSize(void)
 {
-	system("mode 120,40");   //Set mode to ensure window does not exceed buffer size
-  	SMALL_RECT WinRect = {0, 0, 80, 25};   //New dimensions for window in 8x12 pixel chars
-  	SMALL_RECT* WinSize = &WinRect;
-  	SetConsoleWindowInfo(GetStdHandle(STD_OUTPUT_HANDLE), 1, WinSize);   //Set new size for window
-
+  	system("MODE 135, 40");
+	system("cls");
 }
 
 
@@ -59,7 +58,7 @@ void printLaunchScreen(void)
 		while ((c=getc(fpt)) != EOF)
 			putchar(c);
 	fclose(fpt);
-	}                                                                                              
+	}
 }
 
 
