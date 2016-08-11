@@ -1,0 +1,11 @@
+Credits:
+
+Programmed by:
+Armand Alvarez
+Luke Terhall
+
+ASCII art generator:
+patorjk.com/
+
+Github:
+github.com/minimcloving/Knight-RPG
