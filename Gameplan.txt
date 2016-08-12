@@ -1,0 +1,11 @@
+Gameplan:
+
+EDIT THIS FILE IF YOU PLAN ON ADDING SOMETHING TO THE GAME. THIS WAY NO TWO PEOPLE WILL ACCIDENTALLY WORK ON THE SAME FEATURE. THANK YOU!
+
+
+
+What we need to work on:
+
+Create a story line
+Create a starting map or starting room
+Impliment player stats on the screen (discuss style before implimentation)
