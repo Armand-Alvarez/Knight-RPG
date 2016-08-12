@@ -5,7 +5,18 @@ EDIT THIS FILE IF YOU PLAN ON ADDING SOMETHING TO THE GAME. THIS WAY NO TWO PEOP
 
 
 What we need to work on:
+(In order of what SHOULD be completed first)
 
-Create a story line
-Create a starting map or starting room
-Impliment player stats on the screen (discuss style before implimentation)
+Decide the features and objects of the game (do not impliment).
+Create test map for developers. 
+Create basic movement engine.
+Create player attributes.
+Create test monster for developers.
+Create monster attributes.
+Create basic combat engine.
+Create test NPC for developers.
+Create interaction engine.
+Create dialogue engine.
+
+
+
