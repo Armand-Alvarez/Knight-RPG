@@ -1,3 +1,0 @@
-[1] Begin Adventure
-[2] Credits
-[3] Quit Game
